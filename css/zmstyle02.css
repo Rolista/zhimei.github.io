@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+#zhimei #header2 .li1 a{border-bottom:3px solid #000000;color:#000000;}
+#zhimei02 #header2 .li2 a{border-bottom:3px solid #000000;color:#000000;}
+#zhimei03 #header2 .li3 a{border-bottom:3px solid #000000;color:#000000;}
+#zhimei04 #header2 .li4 a{border-bottom:3px solid #000000;color:#000000;}
+#zhimei05 #header2 .li5 a{border-bottom:3px solid #000000;color:#000000;}
+
+
+
+
+
+#banner{height:400px;}
+
+#main{height:1164px;}
+#main1{width:950px;height:1164px;margin:0 auto;}
+#main1 #m1{width:950px;height:223px;}
+#main1 #m1 .a1{width:108px;height:108px;margin:46px 41px 0 41px;display:inline;}
+#main1 #m1 .a1 a{width:108px;height:108px;display:block;background:url(../img/bg03.png) no-repeat;}
+
+#main h3{width:950px;height:32px;background:#2d3237;font-size:19px;font-family:Arial;line-height:32px;text-align:center;}
+#main h3 span{color:#ff0000;}
+#main h3 em{color:#ffffff;}
+
+#main1 #m2{width:950px;height:446px;}
+#m2 div{width:172px;height:300px;margin-right:20px;}
+#m2 .a2{margin:0}
+#m2 div .a1{width:172px;height:230px;display:block;background:url(../img/bg04.png) no-repeat;}
+#m2 div dl{width:145px;height:48px;background:#2d3237;padding:22px 0 0 27px;}
+#m2 div .d2{background:#ff0000;}
+#m2 div .d2 dt a{color:#1e1919;}
+#m2 div dt{font-size:13px;height:16px;}
+#m2 div dt a{color:#d50a0b;}
+
+#m2 div dd{font-size:11px;}
+#m2 div dd a{color:#f5f5f5;}
+
+#m3{height:250px;}
+#m3 .m3{width:630px;margin:0 auto}
+#m3 h4{width:250px;color:#666666;margin-top:45px;padding-left:190px;}
+#m3 h4 span{font-weight:900}
+#m3 p{font-size:13px;line-height:27px;}
+#m3 .p1{text-indent:2em;padding-top:14px;}
+
+
+#m4{height:210px;}
+#m4 .m4{width:730px;margin:0 auto;}
+#m4 ul{width:730px;height:22px;margin-top:59px;}
+#m4 li{float:left;font-size:12px;line-height:22px;color:#666666;text-indent:36px;padding-right:36px;}
+#m4 .li1{background:url(../img/bg05.png) no-repeat}
+#m4 .li2{background:url(../img/bg06.png) no-repeat}
+#m4 .li3{background:url(../img/bg07.png) no-repeat}
+#m4 .li4{background:url(../img/bg05.png) no-repeat}
+
+#main02{height:254px;padding-top:33px;}
+#main021{width:950px;height:254px;margin:0 auto;}
+
+#main02 h3{width:950px;height:32px;background:#2d3237;font-size:19px;font-family:Arial;line-height:32px;text-align:center;}
+#main02 h3 span{color:#ff0000;}
+#main02 h3 em{color:#ffffff;}
+
+#main03{height:1673px;}
+#main031{width:960px;height:1673px;margin:0 auto;}
+#main03 h3{width:84px;height:32px;font-size:12px;line-height:32px;text-align:center;padding-top:29px;border-bottom:2px solid #000000;color:#282828;}
+
+#main03 .a{width:934px;height:1545px;padding:10px 13px 0 13px;}
+#main03 .a1{width:174px;height:155px;margin-right:16px;display:inline;}
+#main03 .a1 .b1{width:174px;height:117px;display:block;background:url(../img/bg08.png) no-repeat;}
+#main03 .a1 h4{width:174px;height:38px;font-size:11px;line-height:33px;text-align:center;}
+#main03 .a1 .b2{color:#666666;}
+#main03 .a2{margin:0;}
+#main03 ul{width:190px;height:55px;margin-left:42%;}
+#main03 li{float:left;}
+#main03 li a{float:left;font-size:12px;line-height:23px;height:23px;padding:0 5px 0 5px;}
+#main03 li a{color:#666666;}
+/*#main03 li a:hover{border:1px solid #dbeaef;}*/
+
+#main04{height:340px;}
+#main041{width:960px;height:340px;margin:0 auto;}
+#main04 h3{width:84px;height:32px;font-size:12px;line-height:32px;text-align:center;padding-top:29px;border-bottom:2px solid #000000;color:#282828;}
+#main04 .a{width:950px;height:236px;padding:4px 5px 0 5px;}
+#main04 .ul1{width:950px;}
+#main04 .ul1 li{float:left;width:950px;height:30px;font-size:12px;line-height:30px;border-bottom:1px dashed #dddddd;}
+#main04 .ul1 li a{color:#666666;}
+#main04 .ul1 li .a1{color:#b10808;}
+#main04 .ul1 li em{float:right;font-size:9px;line-height:30px;color:#666666;}
+
+#main03 .ul2{width:190px;height:55px;margin-left:8px;}
+#main04 .ul2 li{float:left;height:55px;font-size:11px;line-height:49px;}
+#main04 .ul2 .li1{padding:0 18px 0 18px;}
+#main04 .ul2 li a{color:#666666;}
+
+
+#main05{height:754px;}
+#main051{width:950px;height:754px;margin:0 auto;}
+#main05 .a1{width:210px;height:300px;margin:38px 25px 0 0;}
+#main05 .a1 .b1{width:210px;height:97px;color:#333333;}
+#main05 .a1 .b1 dt{width:210px;height:21px;border-bottom:1px solid #9c9c9c;font-size:12px;margin-bottom:3px;text-indent:5px;}
+#main05 .a1 .b1 dd{width:210px;height:21px;background:url(../img/bg09.png) no-repeat 10px 0;margin-top:7px;line-height:21px;font-size:11px;text-indent:40px;}
+
+#main05 .a1 .b2{width:190px;height:100px;color:#333333;border-top:1px dashed #999999;border-bottom:1px dashed #999999;}
+#main05 .a1 .b2 dt{width:190px;height:25px;background:url(../img/bg10.png) no-repeat;font-size:13px;margin-top:8px;text-indent:26px;line-height:25px;}
+#main05 .a1 .b2 dd{width:190px;height:24px;margin-top:7px;line-height:24px;font-size:11px;}
+
+#main05 .a1 .b3{width:190px;height:100px;color:#333333;}
+#main05 .a1 .b3 dt{width:190px;height:21px;background:url(../img/bg11.png) no-repeat;font-size:13px;margin-top:11px;text-indent:24px;line-height:21px;}
+#main05 .a1 .b3 dd{width:190px;height:41px;margin-top:7px;line-height:41px;font-size:11px;}
+
+#main05 .a2{width:710px;height:719px;margin-top:35px;}
+#main05 .a2 h3{width:160px;height:48px;margin:0 auto;font-size:16px;color:#666666;line-height:48px;}
+#main05 .a2 h4{width:110px;height:23px;font-size:9px;color:#666666;margin:0 auto;}
+
+
+#main05 .a2 dl{width:710px;height:55px;color:#666666;border-bottom:1px dashed #dbeaef;margin-bottom:10px;}
+#main05 .a2 dt{float:left;width:60px;height:52px;font-size:13px;line-height:18px;}
+#main05 .a2 dd{float:left;width:86px;height:20px;margin-bottom:5px;line-height:20px;font-size:12px;background:url(../img/bg12.png) no-repeat;text-indent:22px;}
+#main05 .a2 dd a{color:#666666;}
+
+#main05 .a2 p{font-size:11px;color:#666666;line-height:21px;}
+#main05 .a2 div{width:650px}
+#main05 .a2 .p1{height:63px;}
+#main05 .a2 .p2{height:126px;}
+#main05 .a2 .p5{height:105px;}
+#main05 .a2 .p6{height:147px;}
+#main05 .a2 .p7{height:95px;}
+#main05 .a2 .p4{text-indent:2em;}
+
+#main05 .a2 ul{width:132px;height:25px;margin:0 auto;}
+#main05 .a2 li{float:left;width:46px;height:24px;border:1px solid #dbeaef;margin-right:18px;font-size:11px;line-height:24px;text-align:center;}
+#main05 .a2 li a{color:#666666;}
+
+
